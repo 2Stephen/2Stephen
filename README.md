@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td width="150">
       <img src="http://www.setrain.top/avatars/hanlelin.jpg" width="120" style="border-radius: 50%;" />
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=后端开发者;全栈开发者;致力于开发高效系统&center=true&width=600&height=45">
@@ -84,4 +85,3 @@
   <img src="https://komarev.com/ghpvc/?username=2Stephen&style=flat-square&color=green" alt="访问量"/>
   <img src="https://badges.pufler.dev/visits/2Stephen/2Stephen?logo=github" />
 </p>
-
