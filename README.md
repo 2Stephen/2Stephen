@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋，我是韩乐林</h1>
-<p align="center">
-  💻 后端开发工程师，热爱构建高效、可扩展的系统 <br/>
-  🌱 专注于后端技术栈（SpringBoot、Redis、MQ）<br/>
-  📚 不断学习前端技术，致力于全栈开发 <br/>
-  🎯 目前专注于学习高性能分布式系统、微服务架构
-</p>
-
+<table>
+  <tr>
+    <td width="150">
+      <img src="http://www.setrain.top/avatars/hanlelin.jpg" width="120" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h2>Hi，我是韩乐林</h2>
+      <p>
+        💻 后端开发工程师，热爱构建高效、可扩展的系统 <br/>
+        🌱 专注于后端技术栈（SpringBoot、Redis、MQ）<br/>
+        📚 不断学习前端技术，致力于全栈开发 <br/>
+        🎯 目前专注于学习高性能分布式系统、微服务架构
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=后端开发者;全栈开发者;致力于开发高效系统&center=true&width=600&height=45">
@@ -17,7 +25,7 @@
 
 - 🧑‍🎓 本科在读 · 2022-2026 · 武汉理工大学
 - 📚 熟悉前后端开发、图像识别、数据库设计
-- 🧠 了解机器学习、目标检测、自然语言处理等 AI 应用
+- 🧠 了解目标检测、自然语言处理等 AI 应用
 - 🛠️ 正在学习React框架、高性能分布式系统
 
 ---
@@ -74,6 +82,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2Stephen&style=flat-square&color=green" alt="访问量"/>
-  <img src="https://badges.pufler.dev/visits/2Stephen/zhangsan123?logo=github" />
+  <img src="https://badges.pufler.dev/visits/2Stephen/2Stephen?logo=github" />
 </p>
 
