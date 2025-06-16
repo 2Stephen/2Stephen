@@ -6,10 +6,10 @@
     <td>
       <h2>Hi，我是韩乐林</h2>
       <p>
-        💻 后端开发工程师，热爱构建高效、可扩展的系统 <br/>
-        🌱 专注于后端技术栈（SpringBoot、Redis、MQ）<br/>
-        📚 不断学习前端技术，致力于全栈开发 <br/>
-        🎯 目前专注于学习高性能分布式系统、微服务架构
+        后端开发工程师，热爱构建高效、可扩展的系统 <br/>
+        专注于后端技术栈（Go、Gin、Gorm、Redis、MQ）<br/>
+        不断学习前端技术，致力于全栈开发 <br/>
+        目前专注于学习高性能分布式系统、微服务架构
       </p>
     </td>
   </tr>
@@ -17,21 +17,21 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=后端开发者;全栈开发者;致力于开发高效系统&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=后端开发;全栈开发;致力于开发高效系统&center=true&width=600&height=45">
 </div>
 
 ---
 
-## 🚀 关于我
+## 关于我
 
-- 🧑‍🎓 本科在读 · 2022-2026 · 武汉理工大学
-- 📚 熟悉前后端开发、图像识别、数据库设计
-- 🧠 了解目标检测、自然语言处理等 AI 应用
-- 🛠️ 正在学习React框架、高性能分布式系统
+- 本科在读 · 2022-2026 · 武汉理工大学
+- 熟悉前后端开发、图像识别、数据库设计
+- 了解目标检测、自然语言处理等 AI 应用
+- 正在学习React框架、高性能分布式系统
 
 ---
 
-## 🛠 技术栈
+## 技术栈
 
 ### 前端
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 我的 GitHub 数据
+## 我的 GitHub 数据
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2Stephen&show_icons=true&theme=vue&count_private=true&hide_title=true" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 🔥 活跃情况
+## 活跃情况
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2Stephen&theme=vue" />
@@ -62,22 +62,21 @@
 
 ---
 
-## 📌 精选项目
+## 精选项目
 
 | 项目名 | 简介 | 技术栈 | 链接 |
 |--------|------|--------|------|
-| 🔍 TRACE 智慧图书检索盘点系统 | 图书定位与纠错系统 | `Vue` `Flask` `YOLOv11` `SpringBoot` `MySQL` | [查看项目](https://github.com/2Stephen/TRACE_1.0) |
-| 🛠️ CCD检测平台 | 工厂油箱缺陷检测系统 | `Flutter` `Spring Boot` `OpenCV` | [查看项目](https://github.com/zhangsan123/CCD-Platform) |
-| 🏫 学生管理系统 | 前后端一体化 Web 系统 | `Vue` `Java` `MySQL` | [查看项目](https://github.com/zhangsan123/StudentManager) |
+| TRACE 智慧图书检索盘点系统 | 图书定位与纠错系统 | `Vue` `Flask` `YOLOv11` `SpringBoot` `MySQL` | [查看项目](https://github.com/2Stephen/TRACE_1.0) |
+| 面试题库系统 | 前后端一体化 Web 系统 | `React` `Go` `MySQL` | [查看项目](https://github.com/2Stephen/SETrain_Go_backend) |
 
 ---
 
-## 📬 联系我
+## 联系我
 
-- 📧 Email：han_le_lin@whut.edu.cn
-- 🌐 Blog：http://www.setrain.top/#/mainpage
-- 🧠 CSDN：https://blog.csdn.net/weixin_47619663
-- 💬 微信： h2432757689
+- Email：han_le_lin@whut.edu.cn
+- Blog：http://www.setrain.top/#/mainpage
+- CSDN：https://blog.csdn.net/weixin_47619663
+- 微信： h2432757689
 
 ---
 
